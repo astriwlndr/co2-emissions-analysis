@@ -1,8 +1,9 @@
 # CO2 Emissions Analysis
 ---
-
 ## Project Overview
-This project analyzes global CO2 emissions trends using historical data.
+This project analyzes global CO2 emissions trends using historical data from Our World in Data.  
+It demonstrates how data analytics can be applied to monitor environmental impact, identify high-emitting countries, and explore trends in CO2 emissions per capita and by energy source.  
+The goal is to provide actionable insights for sustainability analysis and policy evaluation.
 
 ---
 ## Tools Used
@@ -16,6 +17,7 @@ Excel
 CO2 and Greenhouse Gas Emissions dataset from Our World in Data.  
 Key columns:  
 `country`, `year`, `population`, `gdp`, `co2`, `co2_per_capita`, `coal_co2`, `oil_co2`, `gas_co2`, `cement_co2`  
+> **Note:** This dataset is publicly available and used for educational and analytical purposes.
 
 ---
 ## Key Analysis
