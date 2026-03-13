@@ -1,4 +1,4 @@
-# CO2 Emissions Analysis
+# 🌍 CO2 Emissions Analysis
 ---
 ## Project Overview
 This project analyzes global CO2 emissions trends using historical data from Our World in Data.  
