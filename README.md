@@ -11,6 +11,8 @@ Excel
 
 ## Dataset
 CO2 and Greenhouse Gas Emissions dataset from Our World in Data.
+Key columns:  
+`country`, `year`, `population`, `gdp`, `co2`, `co2_per_capita`, `coal_co2`, `oil_co2`, `gas_co2`, `cement_co2`  
 
 ## Key Analysis
 - Global CO2 emissions trend
