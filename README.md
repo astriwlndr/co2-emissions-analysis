@@ -20,8 +20,8 @@ Key columns:
 - CO2 emissions per capita
 - Emissions by energy source
 
-## Dashboard
-![Dashboard](dashboard/co2_dashboard.png)
+## Tableau Dashboard
+![Dashboard](tableau_dashboard/co2_dashboard.png)
 
 ## Key Insights
 - Global CO₂ emissions have steadily increased since 1990, with rapid growth after 2000.
