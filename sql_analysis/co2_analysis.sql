@@ -4,6 +4,7 @@
 -- =====================================================
 
 -- 1. Preview dataset
+
 SELECT *
 FROM `ascendant-altar-489312-r5.co2_dataset.co2_dataset`
 LIMIT 10;
@@ -149,4 +150,5 @@ SELECT
     MAX(year) AS end_year,
     SUM(co2) AS total_global_emissions,
     AVG(co2_per_capita) AS avg_global_co2_per_capita
+
 FROM `ascendant-altar-489312-r5.co2_dataset.co2_dataset`;
